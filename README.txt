@@ -5,3 +5,5 @@ Objectives:
     - Needs main pages Home, About, Contact
     - Recipes need images, ingredients, and cooking directions
     - Needs to use cookies to track user data for personalization
+    - Need database to store user data, recipes, userdata?
+    - Need ability to print, save to PDF, email
