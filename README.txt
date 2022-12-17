@@ -7,3 +7,4 @@ Objectives:
     - Needs to use cookies to track user data for personalization
     - Need database to store user data, recipes, userdata?
     - Need ability to print, save to PDF, email
+    - Use database and fridge contents to narrow down what recipes are available
